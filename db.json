@@ -1,3 +1,5 @@
 {
-	"message": "Next prayer time, Al Asr. is in 43 minutes."
+  "response": {
+    "message": "Next prayer time, Al Asr. is in 43 minutes."
+  }
 }
