@@ -1,5 +1,4 @@
 {
-  "prayer": {
-    "message": "Next prayer time, Al Asr. is in 43 minutes."
-  }
+  "fulfillmentText": "This is a text response",
+  "source": "https://gulfnews.com"
 }
